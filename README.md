@@ -1,4 +1,6 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, let's build a **Jobby App**.
+
+JOBBY APP - Like Naukri or some other job listing platforms.
 
 ### Refer to videos below:
 
